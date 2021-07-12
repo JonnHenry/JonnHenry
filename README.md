@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm a Software developer with System Engineer Degree from Ecuador.\
 🌱 &nbsp;I have some experience in Machine Learning, Data Science, Front/Back development.\
-✍️ &nbsp;In my free time, I like learn more about Artificial Intelligence, Systems Design, Data Science, Movil Development.\
+✍️ &nbsp;In my free time, I like learn more about Artificial Intelligence, Systems Design, Data Science and Movil Development.\
 ✉️ &nbsp;You can shoot me an email at jonnathan.campoberde@gmail.com I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
