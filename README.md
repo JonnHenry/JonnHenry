@@ -10,6 +10,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -33,7 +34,8 @@
 <p align="center">
 <a href="https://github.com/JonnHenry">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonnHenry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&langs_count=10"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonnHenry&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonnHenry&layout=compact&langs_count=8&theme=algolia&hide= jupyter%20notebook"/>
+
 </a>
 </p>
 
