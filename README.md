@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I like learn more about Artificial Intelligence, Systems Design, Data Science and Movil Development.\
 ✉️ &nbsp;You can shoot me an email at jonnathan.campoberde@gmail.com I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./coding.gif" align="right" width="30%" height="30%"/>
 
 
 ### 🛠 &nbsp;Tech Stack
