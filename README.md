@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://github.com/JonnHenry">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonnHenry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&langs_count=10"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonnHenry&layout=default&theme=algolia&hide= jupyter%20notebook,html,css,scss"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonnHenry&layout=default&langs_count=10&theme=algolia&hide= jupyter%20notebook,html,css,scss"/>
 
 </a>
 </p>
