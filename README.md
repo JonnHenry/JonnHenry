@@ -46,6 +46,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/jonnathan-campoberde-5a8a851a8"><img alt="Linkedin" src="https://img.shields.io/badge/-%20Jonnathan%20Campoberde-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jonnathan.campoberde@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-jonnathan.campoberde@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/jonnathan"><img alt="Hacke Rank" src="https://img.shields.io/badge/-@jonnathan-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/jonnathan"><img alt="Hacker Rank" src="https://img.shields.io/badge/-@jonnathan-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
 
 </p>
