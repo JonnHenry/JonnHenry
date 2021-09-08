@@ -40,11 +40,7 @@
 
 ***
 
-### 🤝🏻 &nbsp;Connect with Me
-
-
-
-### 💬 Connect with Me
+### 🤝 Connect with Me
 - 💼 Portfolio site: [jonnhenry.github.io/Portfolio](https://jonnhenry.github.io/Portfolio/)
 - <img alt="Linkedin" src="https://img.shields.io/badge/--0077B5?style=flat&logo=Linkedin&logoColor=white"/> Linkedin: [@jonnathan-campoberde](https://www.linkedin.com/in/jonnathan-campoberde)
 - 👨‍💻 Hackerearth: [@jonnathan](https://www.hackerrank.com/jonnathan)
