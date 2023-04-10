@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I like learn more about Artificial Intelligence, Systems Design, Data Science and Movil Development.\
 ✉️ &nbsp;You can shoot me an email at jonnathan.campoberde@gmail.com I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="./coding.gif" align="right" width="30%" height="30%"/>
+<img alt="Night Coding" src="./coding.gif" align="right" width="20%" height="20%"/>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,11 +28,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/JonnHenry">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonnHenry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&langs_count=10"/>
+  <h/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonnHenry&layout=compact&langs_count=10&theme=algolia&hide=jupyter%20notebook,html,css,scss"/>
 
 </a>
